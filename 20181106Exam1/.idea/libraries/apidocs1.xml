@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="apidocs1">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../Exams_src/Exam1/philatelist.zip!/site/apidocs" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

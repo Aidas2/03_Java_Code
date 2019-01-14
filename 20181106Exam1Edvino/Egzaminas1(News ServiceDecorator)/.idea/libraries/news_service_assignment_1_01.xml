@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="news-service-assignment-1.01">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Exam1/news-service/news-service-assignment-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

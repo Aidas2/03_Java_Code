@@ -1,0 +1,14 @@
+C:\Users\Hola\source\repos\PirmaPamoka\Devinta2\bin\Debug\Devinta2.exe.config
+C:\Users\Hola\source\repos\PirmaPamoka\Devinta2\bin\Debug\Devinta2.exe
+C:\Users\Hola\source\repos\PirmaPamoka\Devinta2\bin\Debug\Devinta2.pdb
+C:\Users\Hola\source\repos\PirmaPamoka\Devinta2\obj\Debug\Devinta2.csprojAssemblyReference.cache
+C:\Users\Hola\source\repos\PirmaPamoka\Devinta2\obj\Debug\Devinta2.csproj.CoreCompileInputs.cache
+C:\Users\Hola\source\repos\PirmaPamoka\Devinta2\obj\Debug\Devinta2.exe
+C:\Users\Hola\source\repos\PirmaPamoka\Devinta2\obj\Debug\Devinta2.pdb
+D:\Dropbox\PirmaPamoka\Devinta2\bin\Debug\Devinta2.exe.config
+D:\Dropbox\PirmaPamoka\Devinta2\bin\Debug\Devinta2.exe
+D:\Dropbox\PirmaPamoka\Devinta2\bin\Debug\Devinta2.pdb
+D:\Dropbox\PirmaPamoka\Devinta2\obj\Debug\Devinta2.csprojAssemblyReference.cache
+D:\Dropbox\PirmaPamoka\Devinta2\obj\Debug\Devinta2.csproj.CoreCompileInputs.cache
+D:\Dropbox\PirmaPamoka\Devinta2\obj\Debug\Devinta2.exe
+D:\Dropbox\PirmaPamoka\Devinta2\obj\Debug\Devinta2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Hola\source\repos\PirmaPamoka\NamuDarbai2\bin\Debug\NamuDarbai2.exe.config
+C:\Users\Hola\source\repos\PirmaPamoka\NamuDarbai2\bin\Debug\NamuDarbai2.exe
+C:\Users\Hola\source\repos\PirmaPamoka\NamuDarbai2\bin\Debug\NamuDarbai2.pdb
+C:\Users\Hola\source\repos\PirmaPamoka\NamuDarbai2\obj\Debug\NamuDarbai2.csprojAssemblyReference.cache
+C:\Users\Hola\source\repos\PirmaPamoka\NamuDarbai2\obj\Debug\NamuDarbai2.csproj.CoreCompileInputs.cache
+C:\Users\Hola\source\repos\PirmaPamoka\NamuDarbai2\obj\Debug\NamuDarbai2.exe
+C:\Users\Hola\source\repos\PirmaPamoka\NamuDarbai2\obj\Debug\NamuDarbai2.pdb

@@ -1,0 +1,79 @@
+<html>
+<head>
+<title>PhilatelistImpl.java</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.s0 { color: #000080; font-weight: bold;}
+.s1 { color: #000000;}
+.s2 { color: #808080; font-style: italic;}
+.s3 { color: #008000; font-weight: bold;}
+.s4 { color: #0000ff;}
+</style>
+</head>
+<body bgcolor="#ffffff">
+<table CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#c0c0c0" >
+<tr><td><center>
+<font face="Arial, Helvetica" color="#000000">
+PhilatelistImpl.java</font>
+</center></td></tr></table>
+<pre><span class="s0">import </span>philatelist.Philatelist;
+<span class="s0">import </span>philatelist.PostStamp;
+
+<span class="s0">import </span>java.util.ArrayList;
+<span class="s0">import </span>java.util.List;
+
+<span class="s0">public class </span>PhilatelistImpl <span class="s0">implements </span>Philatelist {
+
+    <span class="s0">private final </span>List&lt;PostStamp&gt; postStamps;
+
+<span class="s2">//    public PhilatelistImpl(List&lt;PostStamp&gt; postStamps) { netinkamas nors ir sugeneruotas</span>
+//        this.postStamps = postStamps;
+//    }
+
+    <span class="s0">public </span>PhilatelistImpl() {
+        <span class="s0">this</span>.postStamps = <span class="s0">new </span>ArrayList&lt;&gt;();
+    }
+
+    @Override <span class="s2">//OK</span>
+    <span class="s0">public void </span>addToCollection(PostStamp postStamp) {
+        <span class="s0">if </span>(postStamp == <span class="s0">null </span>|| postStamp.getName() == <span class="s0">null </span>|| postStamp.getName().equals(<span class="s3">&quot;&quot;</span>)) { <span class="s2">//patikrinimas ar turi duomenis</span>
+            <span class="s0">throw new </span>IllegalArgumentException(<span class="s3">&quot;PostStamp doesnt not exist.. Nothing to addd&quot;</span>);
+        }
+
+        <span class="s0">if </span>(!postStamps.contains(postStamp)) { <span class="s2">// patikrinimas ar jau nera</span>
+            postStamps.add(postStamp);
+        }
+    }
+
+    @Override <span class="s2">//OK</span>
+    <span class="s0">public </span>PostStamp getTheMostExpensivePostStamByMarketValue() {
+        <span class="s2">// netikrinam nei null nei dubliavimosi nes metodas nepriima jokiu argumentu</span>
+
+        PostStamp mostExpensiveStamp = postStamps.get(<span class="s4">0</span>); <span class="s2">//aprioti pirmas pats brangiausias</span>
+        <span class="s0">for </span>(<span class="s0">int </span>i = <span class="s4">0</span>; i &lt; postStamps.size(); i++) { <span class="s2">//lyginam per sarasa ar kuris nera brangeesnos</span>
+            <span class="s0">if </span>(mostExpensiveStamp.getMarketPrice() &lt; postStamps.get(i).getMarketPrice()) {
+                mostExpensiveStamp = postStamps.get(i); <span class="s2">// jei brangesnis tai jis ir tampa maksimaliu</span>
+            }
+        }
+        <span class="s0">return </span>mostExpensiveStamp;
+    }
+
+    @Override
+    <span class="s0">public double </span>getAveragePostStampPrice() {
+        <span class="s0">double </span>sum = <span class="s4">0</span>;
+        <span class="s0">for </span>(PostStamp postStamp : postStamps) { <span class="s2">//iteruojam per sarasa ir kiekvieno zenklo kaina pridedam</span>
+            sum += postStamp.getMarketPrice();
+        }
+        <span class="s0">double </span>average = sum / postStamps.size(); <span class="s2">// nustatom kainu vidurki</span>
+        <span class="s0">return </span>average;
+    }
+
+    @Override
+    <span class="s0">public int </span>getNumberOfPostStampsInCollection() {
+        <span class="s0">int </span>count = postStamps.size();
+        <span class="s0">return </span>count;
+    }
+}
+</pre>
+</body>
+</html>

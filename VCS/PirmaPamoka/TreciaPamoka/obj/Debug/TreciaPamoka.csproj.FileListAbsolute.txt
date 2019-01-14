@@ -1,0 +1,11 @@
+C:\Users\Hola\source\repos\PirmaPamoka\TreciaPamoka\bin\Debug\TreciaPamoka.exe.config
+C:\Users\Hola\source\repos\PirmaPamoka\TreciaPamoka\bin\Debug\TreciaPamoka.exe
+C:\Users\Hola\source\repos\PirmaPamoka\TreciaPamoka\bin\Debug\TreciaPamoka.pdb
+C:\Users\Hola\source\repos\PirmaPamoka\TreciaPamoka\obj\Debug\TreciaPamoka.csprojAssemblyReference.cache
+C:\Users\Hola\source\repos\PirmaPamoka\TreciaPamoka\obj\Debug\TreciaPamoka.csproj.CoreCompileInputs.cache
+C:\Users\Hola\source\repos\PirmaPamoka\TreciaPamoka\obj\Debug\TreciaPamoka.exe
+C:\Users\Hola\source\repos\PirmaPamoka\TreciaPamoka\obj\Debug\TreciaPamoka.pdb
+D:\Dropbox\PirmaPamoka\TreciaPamoka\obj\Debug\TreciaPamoka.csprojAssemblyReference.cache
+D:\Dropbox\PirmaPamoka\TreciaPamoka\obj\Debug\TreciaPamoka.csproj.CoreCompileInputs.cache
+D:\Dropbox\PirmaPamoka\TreciaPamoka\obj\Debug\TreciaPamoka.exe
+D:\Dropbox\PirmaPamoka\TreciaPamoka\obj\Debug\TreciaPamoka.pdb

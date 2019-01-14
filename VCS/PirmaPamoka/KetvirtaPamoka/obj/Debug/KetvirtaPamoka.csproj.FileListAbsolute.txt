@@ -1,0 +1,7 @@
+C:\Users\Hola\source\repos\PirmaPamoka\KetvirtaPamoka\bin\Debug\KetvirtaPamoka.exe.config
+C:\Users\Hola\source\repos\PirmaPamoka\KetvirtaPamoka\bin\Debug\KetvirtaPamoka.exe
+C:\Users\Hola\source\repos\PirmaPamoka\KetvirtaPamoka\bin\Debug\KetvirtaPamoka.pdb
+C:\Users\Hola\source\repos\PirmaPamoka\KetvirtaPamoka\obj\Debug\KetvirtaPamoka.csprojAssemblyReference.cache
+C:\Users\Hola\source\repos\PirmaPamoka\KetvirtaPamoka\obj\Debug\KetvirtaPamoka.csproj.CoreCompileInputs.cache
+C:\Users\Hola\source\repos\PirmaPamoka\KetvirtaPamoka\obj\Debug\KetvirtaPamoka.exe
+C:\Users\Hola\source\repos\PirmaPamoka\KetvirtaPamoka\obj\Debug\KetvirtaPamoka.pdb

@@ -1,0 +1,7 @@
+C:\Users\Hola\source\repos\PirmaPamoka\SeptintaPamoka\bin\Debug\SeptintaPamoka.exe.config
+C:\Users\Hola\source\repos\PirmaPamoka\SeptintaPamoka\bin\Debug\SeptintaPamoka.exe
+C:\Users\Hola\source\repos\PirmaPamoka\SeptintaPamoka\bin\Debug\SeptintaPamoka.pdb
+C:\Users\Hola\source\repos\PirmaPamoka\SeptintaPamoka\obj\Debug\SeptintaPamoka.csprojAssemblyReference.cache
+C:\Users\Hola\source\repos\PirmaPamoka\SeptintaPamoka\obj\Debug\SeptintaPamoka.csproj.CoreCompileInputs.cache
+C:\Users\Hola\source\repos\PirmaPamoka\SeptintaPamoka\obj\Debug\SeptintaPamoka.exe
+C:\Users\Hola\source\repos\PirmaPamoka\SeptintaPamoka\obj\Debug\SeptintaPamoka.pdb

@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c37fe324-4425-4cc0-9094-c67ecd9c4b87" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../20180924/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181002PDJulius/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181002PDPratybos/test/lt/vtvpmc/ems/akademijait/aidas/P2RandomNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181002PDPratybos/test/lt/vtvpmc/ems/akademijait/aidas/P3StringToCharAndBackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181002PDPratybos/test/lt/vtvpmc/ems/akademijait/aidas/P4ASCIITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181002PDPratybos/test/lt/vtvpmc/ems/akademijait/aidas/P5OddEvenNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181002PDPratybos/test/lt/vtvpmc/ems/akademijait/aidas/P6PrimalNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181002PDPratybos/test/lt/vtvpmc/ems/akademijait/aidas/P7ThreeNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181003Lists/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181022PhonesUzduotisAdapteriuiAidas/src/PhoneAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181022PhonesUzduotisAdapteriuiAidas/src/PhoneAdapterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181023decoratorexample/src/main/java/lt/vtvpmc/beer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181023exam2/.idea/libraries/junit_junit_5_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181023exam2Julius/.idea/libraries/imperials_1_0_SNAPSHOT1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181023exam2Julius/.idea/libraries/postoffice_1_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181105/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181105/.idea/libraries/org_apache_logging_log4j_log4j_core_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam1/.idea/libraries/apidocs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam1/.idea/libraries/apidocs1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam1/.idea/libraries/junit_junit_5_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam1/.idea/libraries/news_service_assignment_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam1/.idea/libraries/philatelist_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam1/src/MyNewServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam1/src/NewsServiceTestImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam1/src/PhilatelistImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam1/src/PhilatelistTestImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam2/.idea/libraries/exam_socialnetwork.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam2/.idea/libraries/exam_socialnetwork_tests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam2/.idea/libraries/junit_junit_5_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam2/src/SocialNetworkImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam2/src/SocialNetworkTestImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam3/.idea/libraries/documents_organizer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam3/.idea/libraries/junit_junit_5_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam3/src/BaseTestImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam3/src/DocumentConsumerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam3/src/DocumentOrganizerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam3/src/DocumentProducerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam4/.idea/libraries/exam_v1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam4/.idea/libraries/junit_junit_5_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam4/src/ProjectManagerImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam4/src/ProjectManagerTestImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam5/.idea/libraries/TransportationFactory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam5/.idea/libraries/junit_junit_5_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam5/src/Boat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam5/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam5/src/TransportationFactoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam5/src/TransportationFactoryTestImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam6/src/LibraryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam6/src/LibraryTestImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam7/src/ArticleImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam7/src/NewsServiceTestImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam7/src/NewsSeviceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181106Exam7/src/SwearWordsFreeNewsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181112Funcional/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/Collections_demo/AppEliphant01Sets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/Collections_demo/AppEliphant02Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/Collections_demo/AppEliphant03Sorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181115ExamPart1/.idea/libraries/municipality_1_01.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20180924/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20180924/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20180924/src/lt/vtvpmc/ems/akademijait/aidas/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20180924/src/lt/vtvpmc/ems/akademijait/aidas/CalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181001/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181001/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181002PDJulius/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181002PDJulius/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181002PDPratybos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181002PDPratybos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181002PDPratybos/20180202.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181002PDPratybos/20180202.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181002PDPratybos/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P1CommandLine.class" beforeDir="false" afterPath="$PROJECT_DIR$/../20181002PDPratybos/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P1CommandLine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181002PDPratybos/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P2RandomNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../20181002PDPratybos/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P2RandomNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181002PDPratybos/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P3StringToCharAndBack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../20181002PDPratybos/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P3StringToCharAndBack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181002PDPratybos/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P4ASCII.class" beforeDir="false" afterPath="$PROJECT_DIR$/../20181002PDPratybos/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P4ASCII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181002PDPratybos/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P5OddEvenNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../20181002PDPratybos/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P5OddEvenNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181002PDPratybos/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P6PrimalNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../20181002PDPratybos/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P6PrimalNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181002PDPratybos/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P7ThreeNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../20181002PDPratybos/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P7ThreeNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181002PDPratybos/src/lt/vtvpmc/ems/akademijait/aidas/P1CommandLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20181002PDPratybos/src/lt/vtvpmc/ems/akademijait/aidas/P1CommandLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181002PDPratybos/src/lt/vtvpmc/ems/akademijait/aidas/P2RandomNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20181002PDPratybos/src/lt/vtvpmc/ems/akademijait/aidas/P2RandomNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181002PDPratybos/src/lt/vtvpmc/ems/akademijait/aidas/P3StringToCharAndBack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20181002PDPratybos/src/lt/vtvpmc/ems/akademijait/aidas/P3StringToCharAndBack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181002PDPratybos/src/lt/vtvpmc/ems/akademijait/aidas/P4ASCII.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20181002PDPratybos/src/lt/vtvpmc/ems/akademijait/aidas/P4ASCII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181002PDPratybos/src/lt/vtvpmc/ems/akademijait/aidas/P5OddEvenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20181002PDPratybos/src/lt/vtvpmc/ems/akademijait/aidas/P5OddEvenNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181002PDPratybos/src/lt/vtvpmc/ems/akademijait/aidas/P6PrimalNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20181002PDPratybos/src/lt/vtvpmc/ems/akademijait/aidas/P6PrimalNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181002PDPratybos/src/lt/vtvpmc/ems/akademijait/aidas/P7ThreeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20181002PDPratybos/src/lt/vtvpmc/ems/akademijait/aidas/P7ThreeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181003Lists/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181003Lists/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181003Lists/out/production/lists/aidas/ArrayLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/../20181003Lists/out/production/lists/aidas/ArrayLists.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181003Lists/src/aidas/ArrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20181003Lists/src/aidas/ArrayLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181003Modifiers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181003Modifiers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181008/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181008/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181008/src/lt/vtvpmc/acalc/InkCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20181008/src/lt/vtvpmc/acalc/InkCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181008/src/lt/vtvpmc/oopbank/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20181008/src/lt/vtvpmc/oopbank/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015ashop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181015ashop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015printer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181015printer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015printer/src/main/java/lt/vtvpmc/printer/InkCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20181015printer/src/main/java/lt/vtvpmc/printer/InkCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181022PhonesUzduotisAdapteriuiAidas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181022PhonesUzduotisAdapteriuiAidas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181022PhonesUzduotisAdapteriuiAidas/out/production/20181022PhonesUzduotisAdapteriuiAidas/Adapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181022PhonesUzduotisAdapteriuiAidas/out/production/20181022PhonesUzduotisAdapteriuiAidas/MobilePhoneToPhoneAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181022PhonesUzduotisAdapteriuiAidas/out/production/20181022PhonesUzduotisAdapteriuiAidas/MobilePhoneToPhoneAdapterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181022PhonesUzduotisAdapteriuiAidas/src/Adapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181022PhonesUzduotisAdapteriuiAidas/src/MobilePhoneToPhoneAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181022PhonesUzduotisAdapteriuiAidas/src/MobilePhoneToPhoneAdapterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181022PhonesUzduotisAdapteriuiJulius/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181022PhonesUzduotisAdapteriuiJulius/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181022adapterexample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181022adapterexample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181022adapterexamplenew/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181022adapterexamplenew/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181022adapterexamplenew/src/main/java/lt/vtvpmc/sender/NewToOldAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20181022adapterexamplenew/src/main/java/lt/vtvpmc/sender/NewToOldAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181022adapterexamplenew/src/test/java/lt/vtvpmc/sender/MessageSenderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20181022adapterexamplenew/src/test/java/lt/vtvpmc/sender/MessageSenderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181022iteratorexample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181022iteratorexample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181022iteratorexample/src/main/java/lt/vtvpmc/iterator/IntIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20181022iteratorexample/src/main/java/lt/vtvpmc/iterator/IntIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181023decoratorexample/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181023decoratorexample/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181023decoratorexample/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181023decoratorexample/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181023decoratorexample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181023decoratorexample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181023decoratorexample/src/main/java/lt/vtvpmc/beer/BottleBoxTaxDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20181023decoratorexample/src/main/java/lt/vtvpmc/beer/BottleBoxTaxDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181023decoratorexample/src/main/java/lt/vtvpmc/beer/CubanBreweryDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20181023decoratorexample/src/main/java/lt/vtvpmc/beer/CubanBreweryDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181023exam2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181023exam2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181023exam2/20181023exam2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181023exam2/20181023exam2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181023exam2Julius/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181023exam2Julius/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181023exam2Julius/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181023exam2Julius/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181023exam2Julius/exam2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181023exam2Julius/exam2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181023exam2Julius/src/imperial/Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20181023exam2Julius/src/imperial/Converter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/AntraPamoka/bin/Debug/AntraPamoka.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/AntraPamoka/bin/Debug/AntraPamoka.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/AntraPamoka/obj/Debug/AntraPamoka.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/AntraPamoka/obj/Debug/AntraPamoka.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/AstuntaPamoka/bin/Debug/AstuntaPamoka.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/AstuntaPamoka/bin/Debug/AstuntaPamoka.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/AstuntaPamoka/obj/Debug/AstuntaPamoka.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/AstuntaPamoka/obj/Debug/AstuntaPamoka.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/DesimtaPamoka/bin/Debug/DesimtaPamoka.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/DesimtaPamoka/bin/Debug/DesimtaPamoka.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/DesimtaPamoka/obj/Debug/DesimtaPamoka.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/DesimtaPamoka/obj/Debug/DesimtaPamoka.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/Devinta2/bin/Debug/Devinta2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/Devinta2/bin/Debug/Devinta2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/Devinta2/obj/Debug/Devinta2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/Devinta2/obj/Debug/Devinta2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/DevintaPamoka/bin/Debug/DevintaPamoka.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/DevintaPamoka/bin/Debug/DevintaPamoka.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/DevintaPamoka/obj/Debug/DevintaPamoka.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/DevintaPamoka/obj/Debug/DevintaPamoka.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/KetvirtaPamoka/bin/Debug/KetvirtaPamoka.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/KetvirtaPamoka/bin/Debug/KetvirtaPamoka.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/KetvirtaPamoka/obj/Debug/KetvirtaPamoka.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/KetvirtaPamoka/obj/Debug/KetvirtaPamoka.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/ND3(is Java)/bin/Debug/ND3(is Java).exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/ND3(is Java)/bin/Debug/ND3(is Java).exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/ND3(is Java)/obj/Debug/ND3(is Java).exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/ND3(is Java)/obj/Debug/ND3(is Java).exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/NamuDarbai1/bin/Debug/NamuDarbai1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/NamuDarbai1/bin/Debug/NamuDarbai1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/NamuDarbai1/obj/Debug/NamuDarbai1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/NamuDarbai1/obj/Debug/NamuDarbai1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/NamuDarbai2/bin/Debug/NamuDarbai2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/NamuDarbai2/bin/Debug/NamuDarbai2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/NamuDarbai2/obj/Debug/NamuDarbai2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/NamuDarbai2/obj/Debug/NamuDarbai2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/PenktaPamoka/bin/Debug/PenktaPamoka.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/PenktaPamoka/bin/Debug/PenktaPamoka.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/PenktaPamoka/obj/Debug/PenktaPamoka.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/PenktaPamoka/obj/Debug/PenktaPamoka.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/PirmaPamoka/bin/Debug/PirmaPamoka.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/PirmaPamoka/bin/Debug/PirmaPamoka.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/PirmaPamoka/obj/Debug/PirmaPamoka.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/PirmaPamoka/obj/Debug/PirmaPamoka.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/Septinta2/bin/Debug/Septinta2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/Septinta2/bin/Debug/Septinta2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/Septinta2/obj/Debug/Septinta2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/Septinta2/obj/Debug/Septinta2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/SeptintaPamoka/bin/Debug/SeptintaPamoka.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/SeptintaPamoka/bin/Debug/SeptintaPamoka.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/SeptintaPamoka/obj/Debug/SeptintaPamoka.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/SeptintaPamoka/obj/Debug/SeptintaPamoka.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/SestaPamoka/bin/Debug/SestaPamoka.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/SestaPamoka/bin/Debug/SestaPamoka.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/SestaPamoka/obj/Debug/SestaPamoka.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/SestaPamoka/obj/Debug/SestaPamoka.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/TreciaPamoka/bin/Debug/TreciaPamoka.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/TreciaPamoka/bin/Debug/TreciaPamoka.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VCS/PirmaPamoka/TreciaPamoka/obj/Debug/TreciaPamoka.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../VCS/PirmaPamoka/TreciaPamoka/obj/Debug/TreciaPamoka.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/.idea/libraries/imperials_1_0_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/imperials-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/imperials-javadoc/allclasses-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/imperials-javadoc/allclasses-noframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/imperials-javadoc/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/imperials-javadoc/deprecated-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/imperials-javadoc/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/imperials-javadoc/index-all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/imperials-javadoc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/imperials-javadoc/lt/vtvpmc/java/imperial/AbstractCubeTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/imperials-javadoc/lt/vtvpmc/java/imperial/ImperialCube.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/imperials-javadoc/lt/vtvpmc/java/imperial/MetricCube.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/imperials-javadoc/lt/vtvpmc/java/imperial/class-use/AbstractCubeTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/imperials-javadoc/lt/vtvpmc/java/imperial/class-use/ImperialCube.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/imperials-javadoc/lt/vtvpmc/java/imperial/class-use/MetricCube.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/imperials-javadoc/lt/vtvpmc/java/imperial/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/imperials-javadoc/lt/vtvpmc/java/imperial/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/imperials-javadoc/lt/vtvpmc/java/imperial/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/imperials-javadoc/lt/vtvpmc/java/imperial/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/imperials-javadoc/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/imperials-javadoc/package-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/imperials-javadoc/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/imperials-javadoc/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/postoffice-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/postoffice-javadoc/allclasses-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/postoffice-javadoc/allclasses-noframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/postoffice-javadoc/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/postoffice-javadoc/deprecated-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/postoffice-javadoc/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/postoffice-javadoc/index-all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/postoffice-javadoc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/postoffice-javadoc/lt/vtvpmc/java/postoffice/AbstractPostOfficeTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/postoffice-javadoc/lt/vtvpmc/java/postoffice/IllegalPackageException.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/postoffice-javadoc/lt/vtvpmc/java/postoffice/Package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/postoffice-javadoc/lt/vtvpmc/java/postoffice/PostOffice.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/postoffice-javadoc/lt/vtvpmc/java/postoffice/class-use/AbstractPostOfficeTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/postoffice-javadoc/lt/vtvpmc/java/postoffice/class-use/IllegalPackageException.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/postoffice-javadoc/lt/vtvpmc/java/postoffice/class-use/Package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/postoffice-javadoc/lt/vtvpmc/java/postoffice/class-use/PostOffice.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/postoffice-javadoc/lt/vtvpmc/java/postoffice/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/postoffice-javadoc/lt/vtvpmc/java/postoffice/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/postoffice-javadoc/lt/vtvpmc/java/postoffice/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/postoffice-javadoc/lt/vtvpmc/java/postoffice/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/postoffice-javadoc/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/postoffice-javadoc/package-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/postoffice-javadoc/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/postoffice-javadoc/serialized-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam2/exam2/postoffice-javadoc/stylesheet.css" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1791774813">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1088" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1088" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1292542614">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="39" />
+          <entry key="java" value="61" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="61" />
+          <entry key="PLAIN_TEXT" value="39" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/Collections_demo/AppEliphant01Sets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="526">
+              <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/Collections_demo/AppEliphant02Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/Collections_demo/AppEliphant03Sorted.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/iodemo/App.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/IOStream/App.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/IOStream/Collections/App.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/adapter/App.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/adapter/AppAdapter.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/AppIOStream.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/IOStream/lt/vtvpmc/ems/AppIOStream.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/IOStream/AppIOStream.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/IOStream/lt/vtvpmc/AppIOStream.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/Collections/EliphantSets.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/Collections/EliphantMap.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/Collections/Eliphant02Map.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/Collections/Eliphant02Sorted.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/Collections/Eliphant03Sorted.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/Collections/Eliphant01Sets.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/Collections_demo/Eliphant01Sets.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/Collections_demo/AppEliphant01Sets.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1966" />
+    <option name="y" value="71" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="20181113Repeat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181113Repeat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20181113Repeat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181113Repeat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20181113Repeat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181113Repeat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ems" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20181113Repeat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181113Repeat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ems" type="462c0819:PsiDirectoryNode" />
+              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20181113Repeat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181113Repeat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ems" type="462c0819:PsiDirectoryNode" />
+              <item name="Collections_demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20181113Repeat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181113Repeat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ems" type="462c0819:PsiDirectoryNode" />
+              <item name="vtvpmc" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542392206331" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../20181112Funcional" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AppCollections">
+    <configuration name="AppCollections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.ems.Collections.AppCollections" />
+      <module name="20181113Repeat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.vtvpmc.ems.Collections_demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppIOStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.ems.IOStream.lt.vtvpmc.ems.AppIOStream" />
+      <module name="20181113Repeat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.vtvpmc.ems.IOStream.lt.vtvpmc.ems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AppIOStream" />
+      <item itemvalue="Application.AppCollections" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppCollections" />
+        <item itemvalue="Application.AppIOStream" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c37fe324-4425-4cc0-9094-c67ecd9c4b87" name="Default Changelist" comment="" />
+      <created>1542094529220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542094529220</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/output.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/adapter/AppAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-256">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+            <element signature="e#810#811#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/IOStream/lt/vtvpmc/AppIOStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/Collections/Eliphant02Sorted.java" />
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/Collections/AppCollections.java" />
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/Collections_demo/AppEliphant01Sets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/Collections_demo/AppEliphant02Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/Collections_demo/AppEliphant03Sorted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

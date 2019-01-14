@@ -1,0 +1,11 @@
+package lt.pupelis;
+
+public class Pagrindine {
+
+	public static void main(String[] args) {
+		System.out.println("Sveikas pasauli !");
+		int q = 1;
+		System.out.println(q);
+	}
+
+}

@@ -1,0 +1,7 @@
+C:\Users\Hola\source\repos\PirmaPamoka\DevintaPamoka\bin\Debug\DevintaPamoka.exe.config
+C:\Users\Hola\source\repos\PirmaPamoka\DevintaPamoka\bin\Debug\DevintaPamoka.exe
+C:\Users\Hola\source\repos\PirmaPamoka\DevintaPamoka\bin\Debug\DevintaPamoka.pdb
+C:\Users\Hola\source\repos\PirmaPamoka\DevintaPamoka\obj\Debug\DevintaPamoka.csprojAssemblyReference.cache
+C:\Users\Hola\source\repos\PirmaPamoka\DevintaPamoka\obj\Debug\DevintaPamoka.csproj.CoreCompileInputs.cache
+C:\Users\Hola\source\repos\PirmaPamoka\DevintaPamoka\obj\Debug\DevintaPamoka.exe
+C:\Users\Hola\source\repos\PirmaPamoka\DevintaPamoka\obj\Debug\DevintaPamoka.pdb

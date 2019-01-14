@@ -1,0 +1,14 @@
+C:\Users\Hola\source\repos\PirmaPamoka\NamuDarbai1\bin\Debug\NamuDarbai1.exe.config
+C:\Users\Hola\source\repos\PirmaPamoka\NamuDarbai1\bin\Debug\NamuDarbai1.exe
+C:\Users\Hola\source\repos\PirmaPamoka\NamuDarbai1\bin\Debug\NamuDarbai1.pdb
+C:\Users\Hola\source\repos\PirmaPamoka\NamuDarbai1\obj\Debug\NamuDarbai1.csprojAssemblyReference.cache
+C:\Users\Hola\source\repos\PirmaPamoka\NamuDarbai1\obj\Debug\NamuDarbai1.csproj.CoreCompileInputs.cache
+C:\Users\Hola\source\repos\PirmaPamoka\NamuDarbai1\obj\Debug\NamuDarbai1.exe
+C:\Users\Hola\source\repos\PirmaPamoka\NamuDarbai1\obj\Debug\NamuDarbai1.pdb
+D:\Dropbox\PirmaPamoka\NamuDarbai1\bin\Debug\NamuDarbai1.exe.config
+D:\Dropbox\PirmaPamoka\NamuDarbai1\bin\Debug\NamuDarbai1.exe
+D:\Dropbox\PirmaPamoka\NamuDarbai1\bin\Debug\NamuDarbai1.pdb
+D:\Dropbox\PirmaPamoka\NamuDarbai1\obj\Debug\NamuDarbai1.csprojAssemblyReference.cache
+D:\Dropbox\PirmaPamoka\NamuDarbai1\obj\Debug\NamuDarbai1.csproj.CoreCompileInputs.cache
+D:\Dropbox\PirmaPamoka\NamuDarbai1\obj\Debug\NamuDarbai1.exe
+D:\Dropbox\PirmaPamoka\NamuDarbai1\obj\Debug\NamuDarbai1.pdb

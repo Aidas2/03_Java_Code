@@ -1,0 +1,5 @@
+2018-11-06 12:03:36 INFO  JavaLogging2:24 - Message from INFO level
+2018-11-06 12:03:36 ERROR JavaLogging2:25 - Message from ERROR level
+2018-11-06 12:03:36 INFO  JavaLogging2:26 - Message from INFO level
+2018-11-06 12:03:36 ERROR JavaLogging2:48 - Sukuriant faila iskilo problemujava.io.IOException: No such file or directory
+2018-11-06 12:03:36 INFO  JavaLogging2:56 - Direktorija sukurtafalse

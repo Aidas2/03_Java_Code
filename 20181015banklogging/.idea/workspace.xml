@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d668f4d0-c390-475a-a0e9-e171d8c295ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../20181008/src/lt/vtvpmc/oopbank/InterestStrategySilver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181008/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181008/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181008/out/production/20181008/lt/vtvpmc/acart/ShoppingCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/../20181008/out/production/20181008/lt/vtvpmc/acart/ShoppingCart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181008/out/production/20181008/lt/vtvpmc/oopbank/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../20181008/out/production/20181008/lt/vtvpmc/oopbank/BankAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181008/out/production/20181008/lt/vtvpmc/oopbank/CreditBankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../20181008/out/production/20181008/lt/vtvpmc/oopbank/CreditBankAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181008/out/production/20181008/lt/vtvpmc/oopbank/InterestStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../20181008/out/production/20181008/lt/vtvpmc/oopbank/InterestStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181008/out/production/20181008/lt/vtvpmc/oopbank/InterestStrategyCheap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181008/out/production/20181008/lt/vtvpmc/oopbank/InterestStrategyGold.class" beforeDir="false" afterPath="$PROJECT_DIR$/../20181008/out/production/20181008/lt/vtvpmc/oopbank/InterestStrategyGold.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181008/out/test/20181008/lt/vtvpmc/acart/ShoppingCartTest$TestDiscountStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../20181008/out/test/20181008/lt/vtvpmc/acart/ShoppingCartTest$TestDiscountStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181008/out/test/20181008/lt/vtvpmc/oopbank/CreditBankAccountTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../20181008/out/test/20181008/lt/vtvpmc/oopbank/CreditBankAccountTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181008/src/lt/vtvpmc/oopbank/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20181008/src/lt/vtvpmc/oopbank/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181008/src/lt/vtvpmc/oopbank/CreditBankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20181008/src/lt/vtvpmc/oopbank/CreditBankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181008/src/lt/vtvpmc/oopbank/InterestStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20181008/src/lt/vtvpmc/oopbank/InterestStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181008/src/lt/vtvpmc/oopbank/InterestStrategyCheap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181008/src/lt/vtvpmc/oopbank/InterestStrategyGold.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20181008/src/lt/vtvpmc/oopbank/InterestStrategyGold.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181008/test/lt.vtvpmc.oopbank/BankAccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20181008/test/lt.vtvpmc.oopbank/BankAccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181008/test/lt.vtvpmc.oopbank/CreditBankAccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20181008/test/lt.vtvpmc.oopbank/CreditBankAccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181008/test/lt/vtvpmc/acart/ShoppingCartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20181008/test/lt/vtvpmc/acart/ShoppingCartTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015ashop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181015ashop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015ashop/src/main/java/acart/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20181015ashop/src/main/java/acart/ShoppingCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015ltvtvpmcprinter/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015ltvtvpmcprinter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015ltvtvpmcprinter/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015ltvtvpmcprinter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015ltvtvpmcprinter/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015ltvtvpmcprinter/ltvtvpmcprinter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015ltvtvpmcprinter/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015ltvtvpmcprinter/src/main/java/lt/vtvpmc/printer/InkCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015ltvtvpmcprinter/src/main/java/lt/vtvpmc/printer/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015ltvtvpmcprinter/src/main/java/lt/vtvpmc/printer/shapes/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015ltvtvpmcprinter/src/main/java/lt/vtvpmc/printer/shapes/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015ltvtvpmcprinter/src/test/java/lt/vtvpmc/printer/CircleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015ltvtvpmcprinter/src/test/java/lt/vtvpmc/printer/InkCalculatorITest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015ltvtvpmcprinter/src/test/java/lt/vtvpmc/printer/InkCalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015ltvtvpmcprinter/src/test/java/lt/vtvpmc/printer/RectangleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015ltvtvpmcprinter/target/classes/lt/vtvpmc/printer/InkCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015ltvtvpmcprinter/target/classes/lt/vtvpmc/printer/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015ltvtvpmcprinter/target/classes/lt/vtvpmc/printer/shapes/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015ltvtvpmcprinter/target/classes/lt/vtvpmc/printer/shapes/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015ltvtvpmcprinter/target/test-classes/lt/vtvpmc/printer/CircleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015ltvtvpmcprinter/target/test-classes/lt/vtvpmc/printer/InkCalculatorITest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015ltvtvpmcprinter/target/test-classes/lt/vtvpmc/printer/InkCalculatorTest$TestShape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015ltvtvpmcprinter/target/test-classes/lt/vtvpmc/printer/InkCalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181015ltvtvpmcprinter/target/test-classes/lt/vtvpmc/printer/RectangleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vytautasoopbank/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vytautasoopbank/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vytautasoopbank/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vytautasoopbank/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vytautasoopbank/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vytautasoopbank/oopbank.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vytautasoopbank/out/production/oopbank/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vytautasoopbank/out/production/oopbank/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vytautasoopbank/out/production/oopbank/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vytautasoopbank/out/production/oopbank/lt/vtvpmc/oopbank/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vytautasoopbank/out/production/oopbank/lt/vtvpmc/oopbank/CheapCreditStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vytautasoopbank/out/production/oopbank/lt/vtvpmc/oopbank/CreditBankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vytautasoopbank/out/production/oopbank/lt/vtvpmc/oopbank/GoldCreditStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vytautasoopbank/out/production/oopbank/lt/vtvpmc/oopbank/InterestStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vytautasoopbank/out/test/oopbank/lt/vtvpmc/oopbank/BankAccountTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vytautasoopbank/out/test/oopbank/lt/vtvpmc/oopbank/CreditBankAccountTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vytautasoopbank/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vytautasoopbank/src/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vytautasoopbank/src/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vytautasoopbank/src/lt/vtvpmc/oopbank/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vytautasoopbank/src/lt/vtvpmc/oopbank/CheapCreditStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vytautasoopbank/src/lt/vtvpmc/oopbank/CreditBankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vytautasoopbank/src/lt/vtvpmc/oopbank/GoldCreditStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vytautasoopbank/src/lt/vtvpmc/oopbank/InterestStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vytautasoopbank/src/lt/vtvpmc/oopbank/InterestStrategy_CLASS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vytautasoopbank/test/lt/vtvpmc/oopbank/BankAccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vytautasoopbank/test/lt/vtvpmc/oopbank/CreditBankAccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/Test/ASCIICodeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/Test/BinaryToStringTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/Test/EvenOddNumbersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/Test/FactorialTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/Test/MatrixTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/Test/MaxValueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/Test/MinMaxTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/Test/PositiveNegativeNumberTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/Test/PrimeNumberTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/Test/RandomNumbersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/Test/ReadFromCommandLine1Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/Test/ReverseStringTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/Test/StringToBinaryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/Test/StringToCharTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/Test/StringToOctalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/Test/SumOfNumberTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/Test/stringToHexadecimalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/namudarbai20181002.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/production/namudarbai20181002/ASCIICode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/production/namudarbai20181002/BinaryToString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/production/namudarbai20181002/EvenOddNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/production/namudarbai20181002/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/production/namudarbai20181002/Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/production/namudarbai20181002/MaxValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/production/namudarbai20181002/MinMax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/production/namudarbai20181002/PositiveNegativeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/production/namudarbai20181002/PrimeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/production/namudarbai20181002/RandomNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/production/namudarbai20181002/ReadFromCommandLine1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/production/namudarbai20181002/ReverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/production/namudarbai20181002/StringToBinary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/production/namudarbai20181002/StringToChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/production/namudarbai20181002/StringToHexadecimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/production/namudarbai20181002/StringToOctal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/production/namudarbai20181002/SumOfNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/test/namudarbai20181002/ASCIICodeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/test/namudarbai20181002/BinaryToStringTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/test/namudarbai20181002/EvenOddNumbersTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/test/namudarbai20181002/FactorialTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/test/namudarbai20181002/MatrixTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/test/namudarbai20181002/MaxValueTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/test/namudarbai20181002/MinMaxTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/test/namudarbai20181002/PositiveNegativeNumberTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/test/namudarbai20181002/PrimeNumberTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/test/namudarbai20181002/RandomNumbersTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/test/namudarbai20181002/ReadFromCommandLine1Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/test/namudarbai20181002/ReverseStringTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/test/namudarbai20181002/StringToBinaryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/test/namudarbai20181002/StringToCharTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/test/namudarbai20181002/StringToHexadecimalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/test/namudarbai20181002/StringToOctalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/out/test/namudarbai20181002/SumOfNumberTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/src/ASCIICode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/src/BinaryToString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/src/EvenOddNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/src/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/src/Matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/src/MaxValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/src/MinMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/src/PositiveNegativeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/src/PrimeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/src/RandomNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/src/ReadFromCommandLine1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/src/ReverseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/src/StringToBinary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/src/StringToChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/src/StringToHexadecimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/src/StringToOctal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../namudarbai20181002/src/SumOfNumber.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-397796722">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="6" />
+          <entry key="properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="6" />
+          <entry key="Properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="4258" />
+          <entry key="properties" value="536" />
+          <entry key="xml" value="115" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4258" />
+          <entry key="Properties" value="536" />
+          <entry key="XML" value="115" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+    <session id="2088723472">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.99" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lt/vtvpmc/logging/BankAccount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lt/vtvpmc/logging/BankException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#119#120#0" expanded="true" />
+                <element signature="e#143#144#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lt/vtvpmc/logging/InsufficientBalanceException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="63" selection-start-line="2" selection-start-column="63" selection-end-line="2" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lt/vtvpmc/logging/NegativeAmountException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="83" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/lt/vtvpmc/logging/NegativeDepositException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lt/vtvpmc/logging/NegativeDepositAmountException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lt/vtvpmc/logging/BankException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lt/vtvpmc/logging/InsufficientBalanceException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lt/vtvpmc/logging/NegativeAmountException.java" />
+        <option value="$PROJECT_DIR$/src/test/java/lt/vtvpmc/logging/BankAccountTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lt/vtvpmc/logging/BankAccount.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="25" />
+    <option name="width" value="1440" />
+    <option name="height" value="706" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="20181015banklogging" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181015banklogging" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20181015banklogging" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181015banklogging" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20181015banklogging" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181015banklogging" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20181015banklogging" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181015banklogging" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20181015banklogging" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181015banklogging" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="logging" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20181015banklogging" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181015banklogging" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20181015banklogging" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181015banklogging" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20181015banklogging" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181015banklogging" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="logging" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539675103117" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="lt.vtvpmc.logging" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BankAccountTest">
+    <configuration name="BankAccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bank-logging" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.vtvpmc.logging.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lt.vtvpmc.logging" />
+      <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.logging.BankAccountTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lt.vtvpmc.logging" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.vtvpmc.logging.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lt.vtvpmc.logging" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.lt.vtvpmc.logging" />
+      <item itemvalue="JUnit.BankAccountTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BankAccountTest" />
+        <item itemvalue="JUnit.lt.vtvpmc.logging" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d668f4d0-c390-475a-a0e9-e171d8c295ec" name="Default Changelist" comment="" />
+      <created>1539629722663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539629722663</updated>
+      <workItem from="1539629727721" duration="6803000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BankAccountTest - 2018.10.15 at 23h 45m 55s.xml">
+      <configuration name="BankAccountTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankAccountTest - 2018.10.15 at 23h 46m 01s.xml">
+      <configuration name="BankAccountTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankAccountTest - 2018.10.15 at 23h 47m 17s.xml">
+      <configuration name="BankAccountTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankAccountTest - 2018.10.15 at 23h 49m 33s.xml">
+      <configuration name="BankAccountTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankAccountTest - 2018.10.15 at 23h 49m 44s.xml">
+      <configuration name="BankAccountTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankAccountTest - 2018.10.15 at 23h 50m 24s.xml">
+      <configuration name="BankAccountTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankAccountTest - 2018.10.15 at 23h 51m 00s.xml">
+      <configuration name="BankAccountTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankAccountTest - 2018.10.15 at 23h 51m 07s.xml">
+      <configuration name="BankAccountTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="lt_vtvpmc_logging - 2018.10.16 at 07h 06m 39s.xml">
+      <configuration name="lt.vtvpmc.logging" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankAccountTest - 2018.10.16 at 08h 50m 43s.xml">
+      <configuration name="BankAccountTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6803000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="46" y="31" width="1317" height="635" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2608353" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31669268" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39977974" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32929516" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24981132" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/lt/vtvpmc/logging/BankAccountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lt/vtvpmc/logging/BankException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lt/vtvpmc/logging/NegativeAmountException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="83" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lt/vtvpmc/logging/InsufficientBalanceException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="63" selection-start-line="2" selection-start-column="63" selection-end-line="2" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lt/vtvpmc/logging/BankAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

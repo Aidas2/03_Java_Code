@@ -1,0 +1,11 @@
+2018-11-06 10:55:00 ERROR JavaLogging:23 - Message from ERROR level
+2018-11-06 10:58:14 ERROR JavaLogging:23 - Message from ERROR level
+2018-11-06 10:59:19 ERROR JavaLogging:23 - Message from ERROR level
+2018-11-06 11:02:16 ERROR JavaLogging:23 - Message from ERROR level
+2018-11-06 11:02:48 ERROR JavaLogging:23 - Message from ERROR level
+2018-11-06 11:03:46 ERROR JavaLogging:23 - Message from ERROR level
+2018-11-06 11:03:46 ERROR JavaLogging:45 - Sukuriant faila iskilo problemujava.io.IOException: No such file or directory
+2018-11-06 11:20:49 ERROR JavaLogging:23 - Message from ERROR level
+2018-11-06 11:20:49 ERROR JavaLogging:45 - Sukuriant faila iskilo problemujava.io.IOException: No such file or directory
+2018-11-06 11:21:16 ERROR JavaLogging:23 - Message from ERROR level
+2018-11-06 16:30:24 ERROR JavaLogging:23 - Message from ERROR level

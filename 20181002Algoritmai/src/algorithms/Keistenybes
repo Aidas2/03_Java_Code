@@ -1,0 +1,35 @@
+	
+
+	String str1 = "10";
+	int in1 = 10;
+	System.out.println(str1 + in1); //1010
+	System.out.println(in1 + str1 + in1); //101010
+	System.out.println(str1 + in1 + in1); //101010
+	System.out.println(in1 + in1 + str1); //2010
+	System.out.println(in1 + str1 - in1); //Error
+	System.out.println(str1 + in1 * in1); //10100
+	System.out.println(str1 * in1); //Error
+
+	in1 = in1++ + ++in1; // 22
+_________________________________________
+	in1 = ++in1 + in1++; // 22
+_________________________________________
+	in1 = in1++ + in1++ + in1++; // 33
+_________________________________________
+
+	in1 += in1++ + in1-- + in1++; // ??
+	
+	System.out.println(in1)
+
+	int in2 = 20;
+	in2 = ++in2 + 1; // 22 postkrementas
+	
+
+
+
+
+
+
+
+
+

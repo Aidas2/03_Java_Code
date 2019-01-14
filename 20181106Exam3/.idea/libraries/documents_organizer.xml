@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="documents-organizer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Exams_src/Exam3/documents-organizer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Exams_src/Exam3/documents-organizer.jar!/" />
+    </SOURCES>
+  </library>
+</component>

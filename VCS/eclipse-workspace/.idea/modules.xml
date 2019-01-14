@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KintamiejiIvadas/KintamiejiIvadas.iml" filepath="$PROJECT_DIR$/KintamiejiIvadas/KintamiejiIvadas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Objektai/Objektai.iml" filepath="$PROJECT_DIR$/Objektai/Objektai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operatoriai/Operatoriai.iml" filepath="$PROJECT_DIR$/Operatoriai/Operatoriai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQL/SQL.iml" filepath="$PROJECT_DIR$/SQL/SQL.iml" />
+    </modules>
+  </component>
+</project>

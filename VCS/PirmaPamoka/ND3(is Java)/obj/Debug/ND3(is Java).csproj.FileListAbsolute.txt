@@ -1,0 +1,7 @@
+D:\Dropbox\PirmaPamoka\ND3(is Java)\obj\Debug\ND3(is Java).csprojAssemblyReference.cache
+D:\Dropbox\PirmaPamoka\ND3(is Java)\obj\Debug\ND3(is Java).csproj.CoreCompileInputs.cache
+D:\Dropbox\PirmaPamoka\ND3(is Java)\bin\Debug\ND3(is Java).exe.config
+D:\Dropbox\PirmaPamoka\ND3(is Java)\bin\Debug\ND3(is Java).exe
+D:\Dropbox\PirmaPamoka\ND3(is Java)\bin\Debug\ND3(is Java).pdb
+D:\Dropbox\PirmaPamoka\ND3(is Java)\obj\Debug\ND3(is Java).exe
+D:\Dropbox\PirmaPamoka\ND3(is Java)\obj\Debug\ND3(is Java).pdb

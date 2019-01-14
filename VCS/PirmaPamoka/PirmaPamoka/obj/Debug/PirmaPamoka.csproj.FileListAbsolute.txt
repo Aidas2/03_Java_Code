@@ -1,0 +1,14 @@
+C:\Users\Hola\source\repos\PirmaPamoka\PirmaPamoka\bin\Debug\PirmaPamoka.exe.config
+C:\Users\Hola\source\repos\PirmaPamoka\PirmaPamoka\bin\Debug\PirmaPamoka.exe
+C:\Users\Hola\source\repos\PirmaPamoka\PirmaPamoka\bin\Debug\PirmaPamoka.pdb
+C:\Users\Hola\source\repos\PirmaPamoka\PirmaPamoka\obj\Debug\PirmaPamoka.csprojAssemblyReference.cache
+C:\Users\Hola\source\repos\PirmaPamoka\PirmaPamoka\obj\Debug\PirmaPamoka.csproj.CoreCompileInputs.cache
+C:\Users\Hola\source\repos\PirmaPamoka\PirmaPamoka\obj\Debug\PirmaPamoka.exe
+C:\Users\Hola\source\repos\PirmaPamoka\PirmaPamoka\obj\Debug\PirmaPamoka.pdb
+D:\Dropbox\PirmaPamoka\PirmaPamoka\bin\Debug\PirmaPamoka.exe.config
+D:\Dropbox\PirmaPamoka\PirmaPamoka\bin\Debug\PirmaPamoka.exe
+D:\Dropbox\PirmaPamoka\PirmaPamoka\bin\Debug\PirmaPamoka.pdb
+D:\Dropbox\PirmaPamoka\PirmaPamoka\obj\Debug\PirmaPamoka.csprojAssemblyReference.cache
+D:\Dropbox\PirmaPamoka\PirmaPamoka\obj\Debug\PirmaPamoka.csproj.CoreCompileInputs.cache
+D:\Dropbox\PirmaPamoka\PirmaPamoka\obj\Debug\PirmaPamoka.exe
+D:\Dropbox\PirmaPamoka\PirmaPamoka\obj\Debug\PirmaPamoka.pdb

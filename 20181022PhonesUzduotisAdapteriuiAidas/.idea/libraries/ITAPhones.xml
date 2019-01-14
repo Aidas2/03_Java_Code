@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ITAPhones">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../PhonesUzduotisAdapteriui/ITAPhones.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

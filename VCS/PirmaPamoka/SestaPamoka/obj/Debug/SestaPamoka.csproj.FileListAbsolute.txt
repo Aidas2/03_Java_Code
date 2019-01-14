@@ -1,0 +1,7 @@
+C:\Users\Hola\source\repos\PirmaPamoka\SestaPamoka\obj\Debug\SestaPamoka.csprojAssemblyReference.cache
+C:\Users\Hola\source\repos\PirmaPamoka\SestaPamoka\obj\Debug\SestaPamoka.csproj.CoreCompileInputs.cache
+C:\Users\Hola\source\repos\PirmaPamoka\SestaPamoka\bin\Debug\SestaPamoka.exe.config
+C:\Users\Hola\source\repos\PirmaPamoka\SestaPamoka\bin\Debug\SestaPamoka.exe
+C:\Users\Hola\source\repos\PirmaPamoka\SestaPamoka\bin\Debug\SestaPamoka.pdb
+C:\Users\Hola\source\repos\PirmaPamoka\SestaPamoka\obj\Debug\SestaPamoka.exe
+C:\Users\Hola\source\repos\PirmaPamoka\SestaPamoka\obj\Debug\SestaPamoka.pdb

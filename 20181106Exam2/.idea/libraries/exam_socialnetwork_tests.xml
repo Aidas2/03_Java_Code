@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="exam-socialnetwork-tests">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Exams_src/Exam2/exam-socialnetwork-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

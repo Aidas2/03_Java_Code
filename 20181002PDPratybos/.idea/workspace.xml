@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1cb7cf7-3378-459c-95ab-d32c493843b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../20180924/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181002PDJulius/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/lt/vtvpmc/ems/akademijait/aidas/P2RandomNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/lt/vtvpmc/ems/akademijait/aidas/P3StringToCharAndBackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/lt/vtvpmc/ems/akademijait/aidas/P4ASCIITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/lt/vtvpmc/ems/akademijait/aidas/P5OddEvenNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/lt/vtvpmc/ems/akademijait/aidas/P6PrimalNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/lt/vtvpmc/ems/akademijait/aidas/P7ThreeNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181023decoratorexample/src/main/java/lt/vtvpmc/beer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181023exam2Julius/.idea/libraries/imperials_1_0_SNAPSHOT1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20181023exam2Julius/.idea/libraries/postoffice_1_0_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20180924/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20180924/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20180924/src/lt/vtvpmc/ems/akademijait/aidas/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20180924/src/lt/vtvpmc/ems/akademijait/aidas/CalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181001/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181001/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181002PDJulius/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181002PDJulius/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20180202.iml" beforeDir="false" afterPath="$PROJECT_DIR$/20180202.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P1CommandLine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P1CommandLine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P2RandomNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P2RandomNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P3StringToCharAndBack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P3StringToCharAndBack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P4ASCII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P4ASCII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P5OddEvenNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P5OddEvenNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P6PrimalNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P6PrimalNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P7ThreeNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/20180202/lt/vtvpmc/ems/akademijait/aidas/P7ThreeNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P1CommandLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P1CommandLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P2RandomNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P2RandomNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P3StringToCharAndBack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P3StringToCharAndBack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P4ASCII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P4ASCII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P5OddEvenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P5OddEvenNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P6PrimalNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P6PrimalNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P7ThreeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P7ThreeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181008/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181008/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181022adapterexample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181022adapterexample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181022iteratorexample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181022iteratorexample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181023decoratorexample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181023decoratorexample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181023decoratorexample/src/main/java/lt/vtvpmc/beer/BottleBoxTaxDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20181023decoratorexample/src/main/java/lt/vtvpmc/beer/BottleBoxTaxDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181023decoratorexample/src/main/java/lt/vtvpmc/beer/CubanBreweryDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20181023decoratorexample/src/main/java/lt/vtvpmc/beer/CubanBreweryDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181023exam2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181023exam2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181023exam2Julius/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181023exam2Julius/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181023exam2Julius/exam2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181023exam2Julius/exam2.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1190272554">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="1" />
+          <entry key="java" value="344" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="344" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-321465971">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="67" />
+          <entry key="java" value="7192" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="7192" />
+          <entry key="PLAIN_TEXT" value="67" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1021956781">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.92" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="36" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="36" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1771" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1771" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/P1CommandLineTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/lt/vtvpmc/ems/akademijait/aidas/P2RandomNumbersTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/lt/vtvpmc/ems/akademijait/aidas/P3StringToCharAndBackTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+              <folding>
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/lt/vtvpmc/ems/akademijait/aidas/P4ASCIITest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#191#192#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/lt/vtvpmc/ems/akademijait/aidas/P5OddEvenNumbersTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P5OddEvenNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/StringToCjarTest.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/Problema03.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/StringToChar.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/StringToCharTest.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/Problema1.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/Problema2.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/Problema3.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/Problema4.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P8ReverseString.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P9PositiveOrNegative.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P10StringTo.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P14RepaeatedChars.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P15Factorial.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P1MinMaxAverage.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P17MinMaxAverage.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P16MinMaxAverage.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P17Matrica.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P18ThreeDigitsTest.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P18ThreeDigits.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P1CommandLineTest.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P1CommandLine.java" />
+        <option value="$PROJECT_DIR$/test/P1CommandLineTest.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P2RandomNumbers.java" />
+        <option value="$PROJECT_DIR$/test/lt/vtvpmc/ems/akademijait/aidas/P2RandomNumbersTest.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P3StringToCharAndBack.java" />
+        <option value="$PROJECT_DIR$/test/lt/vtvpmc/ems/akademijait/aidas/P3StringToCharAndBackTest.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P4ASCII.java" />
+        <option value="$PROJECT_DIR$/test/lt/vtvpmc/ems/akademijait/aidas/P4ASCIITest.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P5OddEvenNumbers.java" />
+        <option value="$PROJECT_DIR$/test/lt/vtvpmc/ems/akademijait/aidas/P6PrimalNumbersTest.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P6PrimalNumbers.java" />
+        <option value="$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P7ThreeNumbers.java" />
+        <option value="$PROJECT_DIR$/test/lt/vtvpmc/ems/akademijait/aidas/P7ThreeNumbersTest.java" />
+        <option value="$PROJECT_DIR$/test/lt/vtvpmc/ems/akademijait/aidas/P5OddEvenNumbersTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="261" />
+    <option name="y" value="69" />
+    <option name="width" value="938" />
+    <option name="height" value="597" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="20181002PDPratybos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181002PDPratybos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20181002PDPratybos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181002PDPratybos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20181002PDPratybos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181002PDPratybos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="aidas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20181002PDPratybos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181002PDPratybos" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20181002PDPratybos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181002PDPratybos" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="aidas" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541149662731" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../20181002PDJulius" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="lt.vtvpmc.ems.akademijait.aidas" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="lt.vtvpmc.ems.akademijait.aidas" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.P5OddEvenNumbersTest.shouldSayOddOrEven">
+    <configuration name="P5OddEvenNumbersTest.shouldSayOddOrEven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="20180202" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.vtvpmc.ems.akademijait.aidas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lt.vtvpmc.ems.akademijait.aidas" />
+      <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.ems.akademijait.aidas.P5OddEvenNumbersTest" />
+      <option name="METHOD_NAME" value="shouldSayOddOrEven" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P6PrimalNumbersTest.shouldReturnArrayOfPrimalNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="20180202" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.vtvpmc.ems.akademijait.aidas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lt.vtvpmc.ems.akademijait.aidas" />
+      <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.ems.akademijait.aidas.P6PrimalNumbersTest" />
+      <option name="METHOD_NAME" value="shouldReturnArrayOfPrimalNumbers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P7ThreeNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="20180202" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.vtvpmc.ems.akademijait.aidas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lt.vtvpmc.ems.akademijait.aidas" />
+      <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.ems.akademijait.aidas.P7ThreeNumbersTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P7ThreeNumbersTest.shouldReturnBiggestFromIntegers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="20180202" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.vtvpmc.ems.akademijait.aidas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lt.vtvpmc.ems.akademijait.aidas" />
+      <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.ems.akademijait.aidas.P7ThreeNumbersTest" />
+      <option name="METHOD_NAME" value="shouldReturnBiggestFromIntegers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P7ThreeNumbersTest.shouldReturnBiggestNumberOfArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="20180202" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.vtvpmc.ems.akademijait.aidas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lt.vtvpmc.ems.akademijait.aidas" />
+      <option name="MAIN_CLASS_NAME" value="lt.vtvpmc.ems.akademijait.aidas.P7ThreeNumbersTest" />
+      <option name="METHOD_NAME" value="shouldReturnBiggestNumberOfArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.P6PrimalNumbersTest.shouldReturnArrayOfPrimalNumbers" />
+      <item itemvalue="JUnit.P7ThreeNumbersTest.shouldReturnBiggestNumberOfArray" />
+      <item itemvalue="JUnit.P7ThreeNumbersTest.shouldReturnBiggestFromIntegers" />
+      <item itemvalue="JUnit.P7ThreeNumbersTest" />
+      <item itemvalue="JUnit.P5OddEvenNumbersTest.shouldSayOddOrEven" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.P5OddEvenNumbersTest.shouldSayOddOrEven" />
+        <item itemvalue="JUnit.P7ThreeNumbersTest" />
+        <item itemvalue="JUnit.P7ThreeNumbersTest.shouldReturnBiggestFromIntegers" />
+        <item itemvalue="JUnit.P7ThreeNumbersTest.shouldReturnBiggestNumberOfArray" />
+        <item itemvalue="JUnit.P6PrimalNumbersTest.shouldReturnArrayOfPrimalNumbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1cb7cf7-3378-459c-95ab-d32c493843b5" name="Default Changelist" comment="" />
+      <created>1538467446321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538467446321</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="P6PrimalNumbersTest_shouldReturnArrayOfPrimalNumbers - 2018.11.02 at 10h 41m 42s.xml">
+      <configuration name="P6PrimalNumbersTest.shouldReturnArrayOfPrimalNumbers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="P6PrimalNumbersTest_shouldReturnArrayOfPrimalNumbers - 2018.11.02 at 10h 42m 24s.xml">
+      <configuration name="P6PrimalNumbersTest.shouldReturnArrayOfPrimalNumbers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="P6PrimalNumbersTest_shouldReturnArrayOfPrimalNumbers - 2018.11.02 at 10h 46m 27s.xml">
+      <configuration name="P6PrimalNumbersTest.shouldReturnArrayOfPrimalNumbers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="P7ThreeNumbersTest_shouldReturnBiggestNumberOfArray - 2018.11.02 at 10h 54m 36s.xml">
+      <configuration name="P7ThreeNumbersTest.shouldReturnBiggestNumberOfArray" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="P7ThreeNumbersTest_shouldReturnBiggestFromIntegers - 2018.11.02 at 10h 59m 06s.xml">
+      <configuration name="P7ThreeNumbersTest.shouldReturnBiggestFromIntegers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="P7ThreeNumbersTest_shouldReturnBiggestFromIntegers - 2018.11.02 at 11h 00m 08s.xml">
+      <configuration name="P7ThreeNumbersTest.shouldReturnBiggestFromIntegers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="P7ThreeNumbersTest - 2018.11.02 at 11h 00m 47s.xml">
+      <configuration name="P7ThreeNumbersTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="P7ThreeNumbersTest - 2018.11.02 at 11h 01m 56s.xml">
+      <configuration name="P7ThreeNumbersTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="P5OddEvenNumbersTest_shouldSayOddOrEven - 2018.11.02 at 11h 05m 31s.xml">
+      <configuration name="P5OddEvenNumbersTest.shouldSayOddOrEven" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="P5OddEvenNumbersTest_shouldSayOddOrEven - 2018.11.02 at 11h 06m 29s.xml">
+      <configuration name="P5OddEvenNumbersTest.shouldSayOddOrEven" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="46" y="31" width="1877" height="947" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23510115" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33292684" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3988212" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32804877" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/Problema03.java" />
+    <entry file="jar:///usr/lib/jvm/java-10-oracle/lib/src.zip!/java.base/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7493" column="42" lean-forward="true" selection-start-line="7493" selection-start-column="36" selection-end-line="7493" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-10-oracle/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="2786" column="25" selection-start-line="2786" selection-start-column="25" selection-end-line="2786" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P8ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P9PositiveOrNegative.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P10StringTo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P14RepaeatedChars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P16MinMaxAverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P15Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="70" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P17Matrica.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P1CommandLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P2RandomNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P3StringToCharAndBack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="27" column="49" lean-forward="true" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P4ASCII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/StringToChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="68" lean-forward="true" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/StringToCharTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P6PrimalNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P18ThreeDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P18ThreeDigitsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/lt/vtvpmc/ems/akademijait/aidas/P6PrimalNumbersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P7ThreeNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/lt/vtvpmc/ems/akademijait/aidas/P7ThreeNumbersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/P1CommandLineTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/lt/vtvpmc/ems/akademijait/aidas/P2RandomNumbersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/lt/vtvpmc/ems/akademijait/aidas/P3StringToCharAndBackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/lt/vtvpmc/ems/akademijait/aidas/P4ASCIITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lt/vtvpmc/ems/akademijait/aidas/P5OddEvenNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/lt/vtvpmc/ems/akademijait/aidas/P5OddEvenNumbersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

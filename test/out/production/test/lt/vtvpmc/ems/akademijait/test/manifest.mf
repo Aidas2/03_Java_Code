@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+Class-Path: /home/aidas/IdeaProjects/test/src/lt/vtvpmc/ems/akademijait/test/HelloWorld.jar

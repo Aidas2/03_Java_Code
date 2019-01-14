@@ -1,0 +1,14 @@
+C:\Users\Hola\source\repos\PirmaPamoka\AntraPamoka\bin\Debug\AntraPamoka.exe.config
+C:\Users\Hola\source\repos\PirmaPamoka\AntraPamoka\bin\Debug\AntraPamoka.exe
+C:\Users\Hola\source\repos\PirmaPamoka\AntraPamoka\bin\Debug\AntraPamoka.pdb
+C:\Users\Hola\source\repos\PirmaPamoka\AntraPamoka\obj\Debug\AntraPamoka.csprojAssemblyReference.cache
+C:\Users\Hola\source\repos\PirmaPamoka\AntraPamoka\obj\Debug\AntraPamoka.csproj.CoreCompileInputs.cache
+C:\Users\Hola\source\repos\PirmaPamoka\AntraPamoka\obj\Debug\AntraPamoka.exe
+C:\Users\Hola\source\repos\PirmaPamoka\AntraPamoka\obj\Debug\AntraPamoka.pdb
+D:\Dropbox\PirmaPamoka\AntraPamoka\bin\Debug\AntraPamoka.exe.config
+D:\Dropbox\PirmaPamoka\AntraPamoka\bin\Debug\AntraPamoka.exe
+D:\Dropbox\PirmaPamoka\AntraPamoka\bin\Debug\AntraPamoka.pdb
+D:\Dropbox\PirmaPamoka\AntraPamoka\obj\Debug\AntraPamoka.csprojAssemblyReference.cache
+D:\Dropbox\PirmaPamoka\AntraPamoka\obj\Debug\AntraPamoka.csproj.CoreCompileInputs.cache
+D:\Dropbox\PirmaPamoka\AntraPamoka\obj\Debug\AntraPamoka.exe
+D:\Dropbox\PirmaPamoka\AntraPamoka\obj\Debug\AntraPamoka.pdb

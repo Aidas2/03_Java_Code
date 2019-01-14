@@ -1,0 +1,14 @@
+package lt.pupelis;
+
+public class Pagrindine {
+
+	public static void main(String[] args) {
+		System.out.println("Sveikas pasauli !");
+		int qq = 534;
+		int zz = 454;
+		System.out.println(q);
+		System.out.println("reikme yra lygi " + qq + "\n");
+		System.out.println("reikme yra lygi " + zz);
+	}
+
+}

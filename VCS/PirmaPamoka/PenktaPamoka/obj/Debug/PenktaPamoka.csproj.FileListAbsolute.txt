@@ -1,0 +1,8 @@
+C:\Users\Hola\source\repos\PirmaPamoka\PenktaPamoka\obj\Debug\PenktaPamoka.csprojAssemblyReference.cache
+C:\Users\Hola\source\repos\PirmaPamoka\PenktaPamoka\obj\Debug\PenktaPamoka.csproj.CoreCompileInputs.cache
+C:\Users\Hola\source\repos\PirmaPamoka\PenktaPamoka\bin\Debug\PenktaPamoka.exe.config
+C:\Users\Hola\source\repos\PirmaPamoka\PenktaPamoka\bin\Debug\PenktaPamoka.exe
+C:\Users\Hola\source\repos\PirmaPamoka\PenktaPamoka\bin\Debug\PenktaPamoka.pdb
+C:\Users\Hola\source\repos\PirmaPamoka\PenktaPamoka\obj\Debug\PenktaPamoka.exe
+C:\Users\Hola\source\repos\PirmaPamoka\PenktaPamoka\obj\Debug\PenktaPamoka.pdb
+C:\Users\Hola\source\repos\PirmaPamoka\PenktaPamoka\bin\Debug\ManoFailas.txt
