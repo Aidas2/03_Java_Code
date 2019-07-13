@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bde92098-d947-4cea-8d4b-cd2464654164" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../20181115ExamPart1/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20180924/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20180924/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20180924/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20180924/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20180924/20180924.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../20180924/20180924.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181001/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181001/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181001/2018-10-01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181001/2018-10-01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181002Algoritmai/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181002Algoritmai/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181002Algoritmai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181002Algoritmai/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181003Lists/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181003Lists/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181003Lists/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181003Lists/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181003Modifiers/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181003Modifiers/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181003Modifiers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181003Modifiers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181008/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181008/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181008/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181008/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181022adapterexample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181022adapterexample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181022iteratorexample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181022iteratorexample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181024jdbc/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181024jdbc/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181024jdbc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181024jdbc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181115ExamPart1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181115ExamPart1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181115ExamPart1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20181115ExamPart1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181115ExamPart1/log4j-app.log" beforeDir="false" afterPath="$PROJECT_DIR$/../20181115ExamPart1/log4j-app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181115ExamPart1/out/production/2018115ExamPart1/lt/vtvpmc/ems/akademijait/paidas/MunicipalityImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../20181115ExamPart1/out/production/2018115ExamPart1/lt/vtvpmc/ems/akademijait/paidas/MunicipalityImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181115ExamPart1/out/production/2018115ExamPart1/lt/vtvpmc/ems/akademijait/paidas/MunicipalityImplTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../20181115ExamPart1/out/production/2018115ExamPart1/lt/vtvpmc/ems/akademijait/paidas/MunicipalityImplTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20181115ExamPart1/out/production/2018115ExamPart1/lt/vtvpmc/ems/akademijait/paidas/MunicipalityTestImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../20181115ExamPart1/out/production/2018115ExamPart1/lt/vtvpmc/ems/akademijait/paidas/MunicipalityTestImpl.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="49" />
+    <option name="y" value="31" />
+    <option name="width" value="695" />
+    <option name="height" value="767" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="20181027examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181027examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20181027examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181027examples" type="462c0819:PsiDirectoryNode" />
+              <item name="templatemethodexample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20181027examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181027examples" type="462c0819:PsiDirectoryNode" />
+              <item name="templatemethodexample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20181027examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181027examples" type="462c0819:PsiDirectoryNode" />
+              <item name="templatemethodexample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20181027examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181027examples" type="462c0819:PsiDirectoryNode" />
+              <item name="templatemethodexample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20181027examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181027examples" type="462c0819:PsiDirectoryNode" />
+              <item name="templatemethodexample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20181027examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181027examples" type="462c0819:PsiDirectoryNode" />
+              <item name="templatemethodexample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lt" type="462c0819:PsiDirectoryNode" />
+              <item name="vtvpmc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20181027examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181027examples" type="462c0819:PsiDirectoryNode" />
+              <item name="templatemethodexample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lt" type="462c0819:PsiDirectoryNode" />
+              <item name="vtvpmc" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20181027examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181027examples" type="462c0819:PsiDirectoryNode" />
+              <item name="templatemethodexample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lt" type="462c0819:PsiDirectoryNode" />
+              <item name="vtvpmc" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="20181027examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20181027examples" type="462c0819:PsiDirectoryNode" />
+              <item name="templatemethodexample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../20181029recursion" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bde92098-d947-4cea-8d4b-cd2464654164" name="Default Changelist" comment="" />
+      <created>1549042681257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549042681257</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="46" y="31" width="1877" height="1052" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986331" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
